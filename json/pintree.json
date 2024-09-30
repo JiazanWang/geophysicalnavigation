@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1712208561083,
-    "title": "收藏夹栏",
+    "title": "其他收藏夹",
     "children": [
       {
         "type": "folder",
@@ -15,6 +15,20 @@
             "title": "Seismo Links",
             "icon": "https://logo.clearbit.com/seismo-learn.org",
             "url": "https://seismo-learn.org/links/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727711648285,
+            "title": "Google",
+            "icon": "https://logo.clearbit.com/www.google.com",
+            "url": "https://www.google.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727711732044,
+            "title": "Bing",
+            "icon": "https://logo.clearbit.com/www.bing.com",
+            "url": "https://www.bing.com/"
           },
           {
             "type": "folder",
